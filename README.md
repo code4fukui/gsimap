@@ -1,4 +1,7 @@
 # gsimaps (GSI Maps)
+
+> Japanese README: [README.ja.md](README.ja.md)
+
 The source of GSI Maps, the web maps by Geospatial Information Authority of Japan (GSI,) Japan's National Geospatial Information Authority (NGIA.)
 
 ## GSI Maps, the web site
@@ -8,7 +11,7 @@ The source of GSI Maps, the web maps by Geospatial Information Authority of Japa
 
 ## How to use this repository
 1. Please download this repository.
-2. Place the files onto your web server. 
+2. Place the files onto your web server.
 3. Open index.html.
 You may want to customize the site to include your logo; in that case please edit index.html .
 The access counter on the lower right side is disabled .
@@ -22,7 +25,7 @@ Howerver, some important functions such as a function to handle vector tile data
 - According to <a href='http://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html'>GSI Contents License</a> which is based on the Japanese Government's Standard License, 2-clause BSD license, which is the same as Leaflet's, applies for the work by GSI.
 - All the pull requests will be subject to 2-clause BSD License with a credit of GSI after we merge respective pull requests.
 - gsimaps uses <a href='http://newspat.csis.u-tokyo.ac.jp/geocode/'>the serveice operated by CSIS, University of Tokyo</a>.
-- Server-side services called from gsimaps are NOT guaranteed to be always in operation, and are NOT guaranteed to be persistently in operation.
+- Server-side services called from gsimaps are NOT guaranteed to be always in operation, and are NOT guaranteed to be persistently in operation. 
 - Server-side services called from gsimaps may be updated or may be abandoned without prior notice.
 - This English translation is tentative and not necessarily authorized.
 
